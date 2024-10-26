@@ -8,7 +8,7 @@ This course will introduce students to the roles and responsibilities of a Web D
 # links
 https://www.w3schools.com/
 # Images
-![Web Development Overview](./path-to-your-image.jpg)
+![Web Development Overview](Webdev.jpg.jpg)
 
 > **Note**: Understanding the various roles within web development is crucial for successful collaboration in web projects. Be proactive in learning about both front-end and back-end processes.
 
