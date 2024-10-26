@@ -16,6 +16,8 @@ https://www.w3schools.com/
 
 # Code Example:
 
+Templete using simple HTML
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
