@@ -22,7 +22,114 @@ https://www.w3schools.com/
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jinal VijayKumar Patel - Site</title>
-    <link rel="stylesheet" href="./Styles/Style.css">
+    <!-- <link rel="stylesheet" href="./Styles/Style.css"> -->
+    <style>body {
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fff;
+    color: #000;
+    }
+#logo img{
+        position: absolute;
+        margin-top: auto;
+        margin-left: auto;
+        height: 50px;
+        width: 50px;
+}
+    a:link{
+        color:black
+        }
+a:visited{
+        color:rgb(112, 46, 46)
+        }
+a:hover{
+        background-color:rgb(194, 139, 139);
+        color:black;
+        }
+a:active{
+        color:beige
+        }
+#navbar li
+        {
+        display: inline;
+        list-style-type:circle;
+        border-left: 1px solid #000;
+        line-height: 1.1em;
+        margin: 6 .5em 0 -.5em;
+        padding: 0 14px; 
+        line-height: 1.1em; 
+        }
+.container {
+        margin:10px;
+        padding:10px;
+        background-color:#ca8080;
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        clear:both;
+        }
+.nav {
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        }
+.left {
+        width:20%;
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        float:left;
+        }
+        .centre {
+        width:47%;
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        float:left;
+        }
+        .right {
+        width:20%;
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        float:right;
+        }
+        .lower-nav {
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+        border-style:solid;
+        clear:both;
+        }
+        .copyrights {
+        margin:10px;
+        padding:10px;
+        background-color:rgb(229 229 180);
+        border-width:1px;
+        border-color:black;
+border-style:solid;
+float:none;
+clear:both;
+}
+.deadnav{
+        color:#FFF;
+        background-color: rgb(109, 89, 89)
+        } </style>
 </head>
 <body>
     <div class="container">
